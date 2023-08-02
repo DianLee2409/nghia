@@ -4,6 +4,11 @@
     box-sizing: border-box;
 }
 
+body {
+    vertical-align: baseline;
+    -webkit-font-smoothing: antialiased;
+}
+
 html {
     scroll-behavior: smooth;
 }
