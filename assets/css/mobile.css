@@ -1,4 +1,4 @@
-@media only screen and (max-width: 420px) {
+@media all and (max-width: 375px) {
     #section1 {
         background-image: url(./img/background-section1.png);
         background-size: 100%;
