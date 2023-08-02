@@ -1,4 +1,4 @@
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 768px) {
     #section1 {
         background-image: url(./img/background-section1.png);
         background-size: 100%;
@@ -52,7 +52,7 @@
     .section1-background .right {
         position: absolute;
         bottom: 10px;
-        right: -25px;
+        right: -40px;
         width: 98.2511px;
         height: 91.087px;
         animation-name: rotate_infinite;
